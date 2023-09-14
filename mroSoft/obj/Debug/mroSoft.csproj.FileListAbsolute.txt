@@ -1,0 +1,17 @@
+C:\Users\Ezequiel_Lona\documents\visual studio 2013\Projects\mroSoft\mroSoft\bin\Debug\mroSoft.exe.config
+C:\Users\Ezequiel_Lona\documents\visual studio 2013\Projects\mroSoft\mroSoft\bin\Debug\mroSoft.exe
+C:\Users\Ezequiel_Lona\documents\visual studio 2013\Projects\mroSoft\mroSoft\bin\Debug\mroSoft.pdb
+C:\Users\Ezequiel_Lona\documents\visual studio 2013\Projects\mroSoft\mroSoft\obj\Debug\mroSoft.mainMenuForm.resources
+C:\Users\Ezequiel_Lona\documents\visual studio 2013\Projects\mroSoft\mroSoft\obj\Debug\mroSoft.Properties.Resources.resources
+C:\Users\Ezequiel_Lona\documents\visual studio 2013\Projects\mroSoft\mroSoft\obj\Debug\mroSoft.csproj.GenerateResource.Cache
+C:\Users\Ezequiel_Lona\documents\visual studio 2013\Projects\mroSoft\mroSoft\obj\Debug\mroSoft.exe
+C:\Users\Ezequiel_Lona\documents\visual studio 2013\Projects\mroSoft\mroSoft\obj\Debug\mroSoft.pdb
+C:\Users\Ezequiel_Lona\Documents\Visual Studio 2013\Projects\mroSoft - 1.0.0.0\mroSoft\bin\Debug\mroSoft.exe.config
+C:\Users\Ezequiel_Lona\Documents\Visual Studio 2013\Projects\mroSoft - 1.0.0.0\mroSoft\bin\Debug\mroSoft.exe
+C:\Users\Ezequiel_Lona\Documents\Visual Studio 2013\Projects\mroSoft - 1.0.0.0\mroSoft\bin\Debug\mroSoft.pdb
+C:\Users\Ezequiel_Lona\Documents\Visual Studio 2013\Projects\mroSoft - 1.0.0.0\mroSoft\obj\Debug\mroSoft.mainMenuForm.resources
+C:\Users\Ezequiel_Lona\Documents\Visual Studio 2013\Projects\mroSoft - 1.0.0.0\mroSoft\obj\Debug\mroSoft.Properties.Resources.resources
+C:\Users\Ezequiel_Lona\Documents\Visual Studio 2013\Projects\mroSoft - 1.0.0.0\mroSoft\obj\Debug\mroSoft.csproj.GenerateResource.Cache
+C:\Users\Ezequiel_Lona\Documents\Visual Studio 2013\Projects\mroSoft - 1.0.0.0\mroSoft\obj\Debug\mroSoft.exe
+C:\Users\Ezequiel_Lona\Documents\Visual Studio 2013\Projects\mroSoft - 1.0.0.0\mroSoft\obj\Debug\mroSoft.pdb
+C:\Users\Ezequiel_Lona\Documents\Visual Studio 2013\Projects\mroSoft - 1.0.0.0\mroSoft\obj\Debug\mroSoft.csprojResolveAssemblyReference.cache
